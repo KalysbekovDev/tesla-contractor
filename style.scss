@@ -1,3 +1,12 @@
-body{
-  background: #000;
-}
+@import "reset";
+@import "tatyna/header";
+@import "tatyna/hero";
+@import "tatyna/team";
+@import "azim/services";
+@import "azim/trigger";
+@import "azim/beaten";
+@import "kalysbekov/help";
+@import "kalysbekov/project";
+@import "kalysbekov/client";
+@import "temirlan/article";
+@import "temirlan/footer";
